@@ -26,7 +26,17 @@ Projeto pessoal documentado e aberto para a comunidade de reparo eletrônico —
 
 ## 📸 Capturas de tela
 
-> *(adicione aqui prints da interface web e fotos do painel ESP32 quando publicar)*
+### Interface web
+
+| Painel principal (ciclo concluído) | Criação de perfil customizado |
+|---|---|
+| ![Interface web principal](screenshots/interface_web_principal.png) | ![Modal de novo perfil](screenshots/modal_novo_perfil.png) |
+
+### Painel físico (ESP32 + display touch)
+
+| Tela de standby | Seleção de perfil |
+|---|---|
+| ![Display standby](screenshots/display_standby.png) | ![Display seleção de perfil](screenshots/display_selecao_perfil.png) |
 
 ---
 
@@ -172,6 +182,7 @@ Leia a seção de segurança completa na documentação técnica antes de montar
 ├── reballing-display/           # Firmware do painel físico (ESP32 / PlatformIO)
 │   ├── platformio.ini
 │   └── src/main.cpp
+├── screenshots/                 # Capturas de tela usadas neste README
 └── docs/
     └── reballing_documentacao.docx   # Documentação técnica completa
 ```
