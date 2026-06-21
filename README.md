@@ -198,6 +198,17 @@ Sugestões, issues e pull requests são bem-vindos! Se você montar a sua versã
 
 ---
 
+## 👤 Autor
+
+**Fabio Leal de Oliveira Machado**
+📧 fabiolmachado@gmail.com
+
+Se este projeto te ajudou e quiser retribuir, fica à vontade para fazer uma doação via PIX:
+
+**Chave PIX:** `fabiolmachado@gmail.com`
+
+---
+
 ## 📜 Licença
 
 Este projeto é open-source. Use, adapte e compartilhe à vontade — só lembre de seguir as práticas de segurança elétrica e térmica descritas na documentação.
